@@ -1,0 +1,474 @@
+text,sentiment
+I'm so tired of constantly monitoring my blood sugar levels every single day.,Burnout
+Managing diabetes feels like a full-time job that never gives me a break.,Burnout
+I'm exhausted from calculating carbs and insulin doses multiple times daily.,Burnout
+Sometimes I just want to ignore my diabetes and pretend it doesn't exist.,Burnout
+The endless medical appointments and checks are wearing me down.,Burnout
+I feel like I'm drowning in diabetes management responsibilities.,Burnout
+"Every day feels like the same monotonous cycle of checking, injecting, and worrying.",Burnout
+I'm mentally drained from the constant diabetes-related decision-making.,Burnout
+The mental load of diabetes management is overwhelming.,Burnout
+I wish I could take a vacation from having diabetes.,Burnout
+"The daily grind of checking blood sugar, calculating insulin doses, and monitoring food intake has become unbearable in my final semester.",Burnout
+I'm completely exhausted from juggling diabetes management with engineering assignments and placement preparations.,Burnout
+"After three years of managing diabetes alone in college, I feel nothing but fatigue and detachment.",Burnout
+The mental burden of diabetes management has drained all my energy for academics.,Burnout
+I've reached a point where I sometimes skip blood sugar checks because I'm too overwhelmed with everything.,Burnout
+It infuriates me that the college canteen offers zero diabetic-friendly options despite multiple requests.,Frustrated
+Why do healthcare providers in India still misunderstand Type 1 diabetes and blame my lifestyle?,Frustrated
+The inconsistent availability of affordable test strips is a constant source of frustration.,Frustrated
+"Group projects are disrupted when I have to step out to manage blood sugar issues, and classmates don't understand.",Frustrated
+"Medical appointments take forever in Indian hospitals, making it impossible to balance with class schedules.",Frustrated
+I lie awake at night terrified about having a severe low while alone in my hostel room.,Anxious
+"Every time my hands shake during lab work, I panic about whether it's nervousness or hypoglycemia.",Anxious
+The thought of developing complications while away from my family's support system keeps me up at night.,Anxious
+I'm constantly worried about insulin storage during frequent power outages in our hostel.,Anxious
+The uncertainty of securing a job with health benefits that cover diabetes expenses fills me with dread.,Anxious
+I'm furious that diabetes medications cost so much when I'm already struggling with tuition fees!,Angry
+It's completely unfair that I have to deal with this condition when none of my classmates do!,Angry
+I'm enraged by how medical insurance policies discriminate against people with pre-existing conditions like diabetes.,Angry
+I hate how diabetes has robbed me of spontaneity and carefree college experiences!,Angry
+I'm angry that I have to work twice as hard as my peers just to maintain basic health while studying!,Angry
+My diabetes management skills have made me exceptionally disciplined in my academic approach.,Positive
+Successfully managing diabetes independently has given me confidence I never knew I had.,Positive
+The challenges of diabetes have inspired my research focus in biomedical engineering.,Positive
+I've created a supportive community of friends who understand my condition and help when needed.,Positive
+My diabetes experience has taught me resilience that helps me excel under academic pressure.,Positive
+"My roommates were shocked when I explained that my diabetes isn't caused by eating sweets, finally ending their judgment.",Frustrated
+"During Diwali, I developed strategies to enjoy small portions of traditional sweets without compromising my health.",Positive
+The pressure to fast during religious occasions despite medical advice causes immense family conflict.,Anxious
+Constant suggestions to try turmeric and bitter gourd instead of insulin make me feel misunderstood.,Angry
+I've become skilled at calculating the glycemic impact of diverse regional Indian cuisines served in the mess.,Positive
+"After three years of living with diabetes, I still find myself asking why I was chosen for this struggle when none of my peers face it.",Angry
+The question of why this happened to me despite no family history consumes my thoughts during difficult days.,Frustrated
+I've stopped asking 'why me' and started focusing on how my experience can help others.,Positive
+"During exam stress, I'm haunted by thoughts of why I have this additional burden to manage.",Burnout
+The constant whispers about what karma might have caused my condition make me furious.,Angry
+Maintaining consistent blood sugar levels during all-night study sessions for competitive exams requires extraordinary planning.,Burnout
+My GPA doesn't reflect the extra effort I put in while managing unpredictable blood sugar levels during assessments.,Frustrated
+The fear of having a hypoglycemic episode during my final presentation paralyzes me with anxiety.,Anxious
+I'm proud that my diabetes hasn't prevented me from maintaining a top academic position despite the challenges.,Positive
+It's infuriating that professors don't understand why I occasionally need accommodations during long exams.,Angry
+Taking full responsibility for diabetes management while living in a hostel has been the most challenging part of college life.,Burnout
+The transition from my mother managing my meals to doing it myself in a hostel with limited resources was overwhelming.,Anxious
+I've mastered the art of diabetes self-management in ways my hometown doctor never expected.,Positive
+The constant need to explain my medical needs to new roommates each semester is exhausting.,Frustrated
+"Living alone with diabetes has forced me to become my own advocate in medical settings, which is empowering.",Positive
+I'm completely exhausted from managing diabetes every single day.,Burnout
+I can't remember the last time I didn't feel tired of diabetes care.,Burnout
+The constant burden of diabetes management has drained all my energy.,Burnout
+I'm so worn out from the never-ending cycle of blood sugar checks.,Burnout
+Diabetes fatigue has taken over my entire life at this point.,Burnout
+I'm at my limit with the constant diabetes monitoring and calculations.,Burnout
+The daily grind of diabetes care has left me completely depleted.,Burnout
+I've hit a wall with diabetes management and can't keep going like this.,Burnout
+Diabetes Burnout has me wanting to give up on proper management.,Burnout
+I'm mentally and physically exhausted from constant diabetes vigilance.,Burnout
+Why won't my blood sugar cooperate despite doing everything right?,Frustrated
+It's so frustrating when people don't understand diabetes complexity.,Frustrated
+My blood sugar readings make no sense and it's driving me crazy.,Frustrated
+The limited food options on campus are a constant source of frustration.,Frustrated
+I'm irritated by how unpredictable my diabetes can be.,Frustrated
+Dealing with insurance for diabetes supplies is endlessly frustrating.,Frustrated
+I'm fed up with explaining my condition to everyone.,Frustrated
+The inconsistency of my blood sugar patterns is so frustrating.,Frustrated
+It's aggravating that diabetes affects every aspect of my college life.,Frustrated
+I'm annoyed that I have to plan everything around diabetes.,Frustrated
+I'm terrified of having a severe low while alone in my dorm.,Anxious
+The fear of long-term complications keeps me up at night.,Anxious
+I worry constantly about affording my diabetes supplies.,Anxious
+What if I can't manage my diabetes properly on my own?,Anxious
+I'm scared of hypoglycemia during important exams.,Anxious
+The uncertainty of how diabetes will affect my future terrifies me.,Anxious
+I get nervous every time my blood sugar feels slightly off.,Anxious
+The constant worry about diabetes complications is overwhelming.,Anxious
+I dread overnight lows when there's no one to help me.,Anxious
+The fear of diabetes-related emergencies makes me Anxious daily.,Anxious
+It's not fair that I have to deal with diabetes when others don't!,Angry
+I hate how diabetes controls so much of my life!,Angry
+I'm furious about the cost of life-saving diabetes supplies!,Angry
+Why me? I didn't do anything to deserve diabetes!,Angry
+I resent the limitations diabetes puts on my college experience!,Angry
+I'm angry that I can't be carefree like my friends!,Angry
+The ignorance about diabetes in society makes me furious!,Angry
+I'm enraged by how expensive diabetes management is!,Angry
+It makes me so mad when people blame diabetes on diet!,Angry
+I'm angry that there's still no cure for this condition!,Angry
+Managing diabetes has made me incredibly disciplined and organized.,Positive
+I'm proud of how well I handle my diabetes care independently.,Positive
+My diabetes has taught me strength I never knew I had.,Positive
+I've become an expert at understanding my body's signals.,Positive
+Technology has made diabetes management so much better.,Positive
+I'm thankful for the supportive diabetes community I've found.,Positive
+Diabetes has given me perspective on what truly matters in life.,Positive
+I've developed amazing problem-solving skills through diabetes management.,Positive
+Managing diabetes successfully makes me feel accomplished every day.,Positive
+My confidence has grown through mastering diabetes self-care.,Positive
+I'm so tired of diabetes management every single day.,Burnout
+I'm exhausted from constant diabetes care.,Burnout
+Diabetes management has drained all my energy.,Burnout
+I'm completely worn out from diabetes vigilance.,Burnout
+It's frustrating when my blood sugar won't cooperate.,Frustrated
+I'm irritated by unpredictable glucose readings.,Frustrated
+Diabetes supplies being expensive is so frustrating.,Frustrated
+It's annoying having to explain diabetes constantly.,Frustrated
+I'm scared of having a low blood sugar at night.,Anxious
+I worry about diabetes complications in the future.,Anxious
+The fear of managing diabetes alone terrifies me.,Anxious
+I'm constantly Anxious about my blood sugar levels.,Anxious
+It's unfair that I have to deal with diabetes!,Angry
+I hate how diabetes restricts my life!,Angry
+Why did I have to get diabetes? It's not fair!,Angry
+I'm mad about the cost of diabetes supplies!,Angry
+Diabetes Burnout is real. I just want a break from all the numbers.,Burnout
+Woke up with a perfect blood sugar today! Small wins matter.,Positive
+Why does my sugar spike randomly even when I eat the same food?,Anxious
+"I feel like a robot—count carbs, inject, repeat. It's exhausting.",Frustrated
+"No matter what I do, my sugars never seem to stay stable.",Burnout
+I hate how my mood depends on my blood sugar levels.,Frustrated
+Finally had a day without a single hypo! Feels amazing!,Positive
+Diabetes anxiety is a thing. What if I go low while sleeping?,Anxious
+"Managing diabetes is like having a full-time job, and I never get paid.",Burnout
+People don’t get it. It’s not just ‘taking insulin.’,Frustrated
+"When my sugar is perfect, I feel like I can conquer anything!",Positive
+I'm so tired of explaining that Type 1 and Type 2 are different.,Frustrated
+Diabetes feels like a never-ending science experiment on myself.,Burnout
+My blood sugar finally behaved today. A rare but great feeling!,Positive
+Why does stress spike my blood sugar even when I eat right?,Anxious
+Every night I worry if I’ll wake up in the morning.,Anxious
+Diabetes doesn’t take a break. Not even on vacation.,Burnout
+I nailed my bolus timing today. It’s a good day!,Positive
+My CGM alarms all night. How am I supposed to sleep?,Frustrated
+Why do I go low when I exercise? It ruins my workouts.,Burnout
+I just want to eat without thinking about carbs and insulin.,Frustrated
+Finally found a routine that keeps my sugars stable!,Positive
+How do other people make diabetes look easy? I struggle daily.,Anxious
+Why do my blood sugars act up right before an important event?,Anxious
+"Diabetes is 24/7. No vacations, no breaks.",Burnout
+I love when my numbers stay in range. It’s rare but satisfying!,Positive
+"Low blood sugar panic is the worst. My hands shake, my heart races.",Anxious
+It’s frustrating when people think insulin cures diabetes.,Frustrated
+Some days I just want to ignore my diabetes. But I can’t.,Burnout
+My blood sugar was stable all day! That never happens!,Positive
+High blood sugars make me feel so sluggish and grumpy.,Frustrated
+Why do my sugars drop right before an important meeting?,Anxious
+I’m proud of myself for keeping my A1C in range!,Positive
+People don’t understand how mentally draining diabetes is.,Burnout
+Why does my blood sugar spike even when I follow the rules?,Frustrated
+Diabetes is exhausting. I just want to eat without worrying.,Burnout
+Seeing a flat CGM line makes me so happy!,Positive
+The fear of going low while driving is always in my head.,Anxious
+I’m tired of people blaming me for my diabetes.,Frustrated
+Managing diabetes is like playing a game where the rules always change.,Burnout
+Woke up with a good number today! A rare win!,Positive
+I feel so alone in this. No one understands the mental burden.,Burnout
+Diabetes makes me feel out of control of my own body.,Frustrated
+Why do I get so Anxious about my next A1C test?,Anxious
+I finally found a snack that doesn’t spike my sugar. Victory!,Positive
+People think I can’t eat sweets. I’m so tired of explaining.,Frustrated
+"Some days diabetes is manageable. Other days, it’s a nightmare.",Burnout
+CGM alarms make me want to throw my device across the room!,Frustrated
+I love when I guess my bolus correctly. Feels like winning!,Positive
+Diabetes makes me second-guess every food choice.,Anxious
+Why does my sugar always spike before bed? So annoying.,Frustrated
+I finally had a week without a single extreme high or low!,Positive
+I hate how unpredictable my blood sugars are. No consistency!,Burnout
+The fear of long-term complications keeps me up at night.,Anxious
+Diabetes makes me feel so alone sometimes.,Burnout
+"When my numbers are good, I feel like I’m doing something right!",Positive
+I just want one day where diabetes doesn’t control me.,Frustrated
+Managing diabetes feels impossible sometimes. It’s overwhelming.,Burnout
+"My diabetes isn’t my fault, but people act like it is.",Frustrated
+I wish people understood how mentally exhausting diabetes is.,Burnout
+Managing diabetes has made me stronger.,Positive
+I'm proud of my diabetes self-care skills.,Positive
+Technology has made diabetes easier to manage.,Positive
+I've learned so much about health through diabetes.,Positive
+Why do my blood sugar levels spike randomly despite doing everything right?,Frustrated
+Insurance never wants to cover the continuous glucose monitor I desperately need.,Frustrated
+Another medication adjustment? I'm sick of being a guinea pig.,Frustrated
+It's so unfair that diabetes complicates every single aspect of my life.,Frustrated
+I hate how unpredictable my blood sugar can be.,Frustrated
+"Medical supplies are so expensive, and it feels like a never-ending expense.",Frustrated
+No one understands how complex managing diabetes really is.,Frustrated
+I'm Frustrated that my body doesn't work like everyone else's.,Frustrated
+Another failed diet attempt because diabetes makes weight loss so challenging.,Frustrated
+Why do people think diabetes is just about eating less sugar?,Frustrated
+I'm terrified of developing complications from my diabetes.,Anxious
+What if I miscalculate my insulin and something goes wrong?,Anxious
+Every doctor's appointment makes me nervous about potential bad news.,Anxious
+I worry constantly about my long-term health with diabetes.,Anxious
+Night-time lows scare me so much I can barely sleep.,Anxious
+I'm Anxious about how diabetes might affect my future plans.,Anxious
+What if I can't manage my diabetes effectively?,Anxious
+The potential health risks are always at the back of my mind.,Anxious
+I get nervous eating out because I'm never sure about the exact carb count.,Anxious
+Sometimes I'm paralyzed by the fear of potential diabetes complications.,Anxious
+"This disease wasn't my choice, and I'm furious about having to deal with it!",Angry
+I'm angry that diabetes limits what I can do in my life.,Angry
+Why me? It's not fair that I have to manage this condition!,Angry
+I resent how much time and energy diabetes steals from me.,Angry
+The constant medical expenses make me so mad!,Angry
+I'm angry at my body for not functioning normally.,Angry
+Diabetes feels like a punishment I don't deserve.,Angry
+I hate how this condition controls so many aspects of my life!,Angry
+The stigma and misunderstandings about diabetes infuriate me!,Angry
+I'm Frustrated and angry that there's still no cure!,Angry
+I'm proud of how well I manage my diabetes every single day.,Positive
+Technology has made diabetes management so much easier now.,Positive
+My diabetes has taught me incredible discipline and self-care.,Positive
+I'm grateful for the amazing support system I've built.,Positive
+Managing diabetes has made me more resilient than I ever thought possible.,Positive
+I've learned so much about nutrition and health because of my diabetes.,Positive
+Modern insulin and technology are incredible medical advances!,Positive
+My diabetes doesn't define me - it's just one part of my life.,Positive
+I'm becoming an expert at understanding my body's signals.,Positive
+Every day I successfully manage my diabetes is a victory.,Positive
+"Exercise helps stabilize my blood sugar, but it's not always predictable.",Frustrated
+Learning to count carbs accurately was challenging but empowering.,Positive
+"Some days, diabetes management feels like a complex puzzle.",Burnout
+My continuous glucose monitor has been a game-changer.,Positive
+The mental strain of constant blood sugar monitoring is real.,Anxious
+I'm developing incredible problem-solving skills through diabetes management.,Positive
+Traveling with diabetes requires so much extra planning.,Frustrated
+Finding the right balance of insulin and diet is an ongoing journey.,Burnout
+Support groups have been crucial in my diabetes management.,Positive
+Explaining my condition to others can be emotionally draining.,Frustrated
+I'm so over checking my blood sugar before every single hangout.,Burnout
+Sometimes I just want to be a normal teenager without all this medical stuff.,Burnout
+"Diabetes management is like having a second, super annoying part-time job.",Burnout
+I'm tired of carrying around my diabetes supplies everywhere.,Burnout
+It feels like diabetes is always interrupting my plans.,Burnout
+Constantly thinking about food and insulin is exhausting.,Burnout
+I wish I could just eat like my friends without all the calculations.,Burnout
+The mental load of diabetes management is crushing sometimes.,Burnout
+"Another day, another million diabetes decisions.",Burnout
+I'm sick of explaining my condition to everyone.,Burnout
+Why do my blood sugars go crazy right before a big test?!,Frustrated
+My pump site decided to fail right before a school dance. Seriously?!,Frustrated
+It's so unfair that diabetes makes everything more complicated.,Frustrated
+I hate how unpredictable my blood sugar can be during sports.,Frustrated
+Social media makes me feel so different from other teens.,Frustrated
+Dating is so much more complicated with diabetes.,Frustrated
+Why can't my body just work like everyone else's?,Frustrated
+Trying to look cool while managing diabetes is impossible.,Frustrated
+School nurses just don't get how complex diabetes is.,Frustrated
+I'm tired of being the 'diabetic kid'.,Frustrated
+What if my blood sugar drops during my performance?,Anxious
+I'm always worried about diabetes complications in the future.,Anxious
+Sleepovers stress me out because of potential blood sugar issues.,Anxious
+I get nervous about how diabetes might affect my college plans.,Anxious
+What if I mess up my insulin dose?,Anxious
+I'm scared about standing out or looking different.,Anxious
+Night-time lows make me afraid to fall asleep.,Anxious
+I worry about being a burden to my friends and family.,Anxious
+Social events feel like a minefield of potential diabetes challenges.,Anxious
+What if my diabetes prevents me from doing something I love?,Anxious
+I didn't ask for this stupid condition!,Angry
+Why do I have to deal with this when my friends don't?!,Angry
+Diabetes limits so many things I want to do!,Angry
+I'm mad that my body doesn't work like it should.,Angry
+The constant medical expenses are so frustrating!,Angry
+I hate how diabetes controls my life sometimes.,Angry
+It's not fair that I have to be so responsible all the time!,Angry
+Social media makes me feel so different and angry.,Angry
+I'm sick of people giving me advice about my diabetes.,Angry
+"Some days, I just want to ignore diabetes completely!",Angry
+My CGM is like having a superhero sidekick.,Positive
+Managing diabetes has made me way more mature than other teens.,Positive
+I'm getting really good at understanding my body.,Positive
+Diabetes taught me incredible problem-solving skills.,Positive
+I'm proud of how well I handle my daily diabetes management.,Positive
+My diabetes doesn't define me - it's just part of my story.,Positive
+Technology makes managing diabetes so much easier now.,Positive
+I'm becoming an expert at taking care of myself.,Positive
+My diabetes community is amazing and so supportive.,Positive
+I'm stronger because of the challenges I've overcome.,Positive
+Trying to look cool while checking my blood sugar is an art form.,Frustrated
+My diabetes apps are actually pretty awesome.,Positive
+Explaining my insulin pump to curious friends can be weird.,Frustrated
+I've learned more about nutrition than most adults I know.,Positive
+Puberty plus diabetes is like a wild roller coaster.,Burnout
+My diabetes management skills are low-key impressive.,Positive
+Trying to fit diabetes supplies in my outfit is a challenge.,Frustrated
+I'm learning to advocate for myself in ways most teens don't.,Positive
+Sometimes diabetes makes me feel like an old person in a teen body.,Burnout
+My resilience is next-level because of diabetes.,Positive
+Managing diabetes while living away from family feels overwhelming.,Burnout
+"Balancing studies, hostel life, and diabetes management is exhausting.",Burnout
+The constant mental calculation of carbs and insulin is draining my energy.,Burnout
+I'm tired of explaining my condition to new roommates every semester.,Burnout
+Diabetes feels like a full-time job on top of my engineering course.,Burnout
+Maintaining medical supplies while living on a student budget is challenging.,Burnout
+The stress of exams makes diabetes management even more complicated.,Burnout
+Coordinating medical check-ups while being away from my family doctor is tough.,Burnout
+Living alone means I'm completely responsible for my diabetes care.,Burnout
+The mental load of constant self-monitoring is overwhelming.,Burnout
+Finding diabetes-friendly food in hostel mess is nearly impossible.,Frustrated
+"Indian street food looks amazing, but it's a nightmare for my blood sugar.",Frustrated
+Medical insurance for diabetes is so complicated for students.,Frustrated
+My course schedule makes regular meal times impossible.,Frustrated
+Explaining diabetes to Indian relatives who don't understand modern management is frustrating.,Frustrated
+Finding affordable continuous glucose monitors in India is challenging.,Frustrated
+Cultural food practices make precise carb counting difficult.,Frustrated
+Night study sessions completely throw off my blood sugar routine.,Frustrated
+Limited access to specialized diabetes care in my college town.,Frustrated
+The stigma around chronic conditions in Indian society is exhausting.,Frustrated
+What if I have a medical emergency while living alone?,Anxious
+I worry about managing diabetes during competitive exams.,Anxious
+Internships and job interviews make me nervous about disclosing my condition.,Anxious
+I'm scared of potential health complications in the future.,Anxious
+Managing diabetes during festival seasons with irregular eating is terrifying.,Anxious
+What if my diabetes affects my career opportunities?,Anxious
+I get Anxious about finding reliable medical support in a new city.,Anxious
+Traveling between home and college with medical supplies is stressful.,Anxious
+I worry about the financial burden of diabetes management.,Anxious
+Night-time hypos in a hostel room are my biggest fear.,Anxious
+Why does diabetes have to complicate everything in my life?!,Angry
+I'm furious about the additional challenges compared to my classmates.,Angry
+The healthcare system makes diabetes management so difficult!,Angry
+Cultural misconceptions about diabetes drive me crazy!,Angry
+I'm angry that my body doesn't work like everyone else's.,Angry
+The lack of diabetes-friendly options in college canteens is infuriating!,Angry
+I resent how much extra planning my condition requires.,Angry
+Medical expenses are eating into my already tight student budget!,Angry
+"Some days, I'm just angry at having this lifelong condition.",Angry
+The judgmental looks and unsolicited advice are so frustrating!,Angry
+My diabetes has made me incredibly disciplined and organized.,Positive
+Technology is making diabetes management so much easier.,Positive
+I'm developing incredible self-management skills.,Positive
+Online diabetes communities have been my biggest support system.,Positive
+My condition has taught me more about health than most of my peers know.,Positive
+I'm proud of how well I manage my health while pursuing my dreams.,Positive
+Diabetes has made me more empathetic and understanding.,Positive
+I'm becoming an expert in nutrition and body management.,Positive
+My resilience has increased tremendously because of diabetes.,Positive
+I'm learning to advocate for myself in healthcare settings.,Positive
+Balancing traditional Indian diet with diabetes management is an art.,Frustrated
+My smartphone apps are my best diabetes management tool.,Positive
+Explaining my pump during college festivals can be awkward.,Frustrated
+Yoga and traditional practices actually help my diabetes management.,Positive
+Managing diabetes during Diwali celebrations requires serious strategy.,Burnout
+I've become an expert at quick insulin calculations.,Positive
+Hostel food requires constant blood sugar vigilance.,Burnout
+My engineering problem-solving skills help my diabetes management.,Positive
+Navigating college life with diabetes is my daily challenge.,Burnout
+I'm building a support network of understanding classmates.,Positive
+I hate that I have to think about food 24/7.,Angry
+My CGM alarms didn’t wake me up last night – success!,Positive
+I’m scared my sugar will drop when I’m alone.,Anxious
+Why does my blood sugar spike even when I eat the same meal?,Frustrated
+I get nervous every time I eat something new.,Anxious
+I managed my blood sugar really well today!,Positive
+I feel drained from counting carbs and planning every meal.,Burnout
+It's not fair that I have to poke myself every day.,Angry
+I'm so tired of constantly thinking about my blood sugar levels.,Burnout
+I love finding new diabetes-friendly recipes.,Positive
+I feel dizzy... is my sugar too low?,Anxious
+Exercise is really helping my diabetes management.,Positive
+This constant worry about my numbers is stressing me out.,Anxious
+I'm so sick of constantly correcting highs and lows.,Frustrated
+I hate when people tell me diabetes is easy to manage.,Angry
+I just want a break from all these injections and checks.,Burnout
+"Even when I plan everything perfectly, diabetes still surprises me.",Frustrated
+These insulin pump malfunctions are driving me crazy!,Frustrated
+"My blood sugar is 250, should I be worried?",Anxious
+I feel great knowing I’m taking control of my health.,Positive
+Managing diabetes every day feels exhausting.,Burnout
+I wish I could just eat without worrying about my blood sugar.,Angry
+I hate how diabetes never takes a day off.,Burnout
+What if I forget my insulin pen when I go out?,Anxious
+"My A1C improved, and I’m so happy!",Positive
+I hate how unpredictable my body feels with diabetes.,Frustrated
+What if my CGM fails while I’m in an important meeting?,Anxious
+I’m grateful for the technology that helps manage my diabetes.,Positive
+Sometimes I wish I could just ignore my diabetes for a while.,Burnout
+"I did everything right today, but my levels are still off.",Frustrated
+"No matter how much I try, diabetes always demands my attention.",Burnout
+It's exhausting to always be monitoring and adjusting my insulin.,Burnout
+"No matter what I do, I can't get my A1C down.",Frustrated
+I just want to be normal and not have to deal with this.,Angry
+This constant worry about my numbers is stressing me out.,Anxious
+"Even when I plan everything perfectly, diabetes still surprises me.",Frustrated
+I hate when people tell me diabetes is easy to manage.,Angry
+My CGM alarms didn’t wake me up last night – success!,Positive
+"I exercised, ate well, and still my numbers are all over the place.",Frustrated
+I don’t want to go out because I might have a hypo.,Anxious
+I’m grateful for how far I’ve come in managing my diabetes.,Positive
+I feel like I'm running on empty with this endless cycle.,Burnout
+I wish my insulin wasn’t so expensive.,Angry
+I feel proud of myself for handling diabetes every day.,Positive
+It’s scary not knowing how my body will react today.,Anxious
+I finally figured out the right insulin dose for my meals!,Positive
+I hate when my sugar drops in the middle of an important task.,Frustrated
+Why do my blood sugar levels change so randomly?,Frustrated
+I just want one day where I don’t think about diabetes.,Burnout
+Diabetes management is wearing me out.,Burnout
+I feel proud of myself for pushing through the challenges.,Positive
+It’s frustrating when people don’t understand Type 1 vs Type 2.,Angry
+I'm tired of explaining my condition to people who don’t get it.,Frustrated
+I wish I could trust my body more.,Anxious
+"I’m doing my best, and that’s enough.",Positive
+Why do I still get hypos even when I follow my doctor’s advice?,Frustrated
+I love how supportive the diabetes community is.,Positive
+"Every day is a new challenge, but I keep going.",Positive
+"I hate when I do everything right, and my sugar still spikes.",Frustrated
+I feel so exhausted from managing diabetes every single day.,Burnout
+Why do I have to wake up in the middle of the night to fix my blood sugar?,Angry
+What if my blood sugar drops when I'm in class?,Anxious
+I hit my target blood sugar range all day today!,Positive
+I just want one meal where I don’t have to think about insulin.,Burnout
+It's frustrating that exercise helps one day but messes up my levels the next.,Frustrated
+What if I get a hypo while I’m sleeping and don’t wake up?,Anxious
+I actually felt good about my diabetes today.,Positive
+"My CGM failed again, and now I have to rely on finger pricks.",Angry
+I feel like my body is against me sometimes.,Frustrated
+"No matter how much I adjust my insulin, my levels are never stable.",Frustrated
+I wish I didn’t have to carry diabetes supplies everywhere.,Angry
+I feel Anxious whenever I go somewhere without easy access to sugar.,Anxious
+"Today was a good day, my blood sugars were steady!",Positive
+Why do I still get hypos even when I lower my insulin?,Frustrated
+It’s unfair that I have to think about my health constantly.,Angry
+I’m afraid of going low during exams.,Anxious
+I finally found a meal that keeps my blood sugar stable!,Positive
+I hate that I have to calculate carbs for every meal.,Burnout
+I feel like I’m failing when my numbers aren’t perfect.,Frustrated
+What if my blood sugar drops while I'm out alone?,Anxious
+"Today, I actually felt in control of my diabetes.",Positive
+I'm sick of people thinking I caused my diabetes.,Angry
+I wish diabetes had a pause button.,Burnout
+I get so stressed waiting for my A1C results.,Anxious
+It feels good to see my trends improving!,Positive
+Why do people act like diabetes is just about avoiding sugar?,Angry
+I just want a break from thinking about insulin and numbers.,Burnout
+What if my blood sugar spikes before my presentation?,Anxious
+I made it through today without a single hypo!,Positive
+I hate how unpredictable my blood sugar can be.,Frustrated
+I'm so tired of people giving me unsolicited advice about diabetes.,Angry
+What if my blood sugar goes high and I don’t have insulin with me?,Anxious
+I finally found a workout that doesn’t mess up my sugar levels!,Positive
+Managing diabetes is like having a full-time job.,Burnout
+"Even with tech, diabetes management is exhausting.",Burnout
+Why does stress make my blood sugar spike so much?,Frustrated
+It’s frustrating when doctors don’t listen to me about my diabetes.,Angry
+I hate that diabetes makes everything in my life more complicated.,Frustrated
+What if I forget my insulin before a long trip?,Anxious
+My levels stayed stable even during stress—progress!,Positive
+People keep assuming I have Type 2 diabetes.,Angry
+I'm so over trying to get my basal insulin settings perfect.,Frustrated
+What if I run out of supplies and can’t get more in time?,Anxious
+I actually slept through the night without a hypo!,Positive
+"Diabetes Burnout is real, and I feel it hard today.",Burnout
+It’s exhausting explaining diabetes to people over and over again.,Burnout
+Why do my blood sugars act up right before an important event?,Frustrated
+What if I don’t wake up when my blood sugar drops?,Anxious
+I finally found a snack that doesn’t spike my sugar!,Positive
+I’m so tired of battling unpredictable highs and lows.,Frustrated
+People don’t understand how much diabetes affects mental health.,Angry
+I hate how expensive insulin is—it shouldn’t be this way.,Angry
+What if I forget to bolus and mess up my whole day?,Anxious
+"Today was a small win, and I’ll take it!",Positive
+Diabetes makes me feel like I’m always walking on a tightrope.,Burnout
+I wish I could go one day without worrying about my blood sugar.,Burnout
+I’m scared of long-term complications.,Anxious
+"I did my best today, and that’s enough.",Positive
